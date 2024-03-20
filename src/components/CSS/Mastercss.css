@@ -47,8 +47,21 @@
     margin-top: -1259px;
     margin-bottom: 9px;
     position: absolute;
-    z-index: 2;
+    z-index: 3;
 }
+@media (max-width:452px) {
+    .spacer2{
+        margin-top: -362px;
+        height: 371px;
+    } 
+}
+@media (min-width: 453px) and (max-width: 999px) {
+    .spacer2{
+       display:none;
+    } 
+}
+
+
 .layer2{
     background-image: url(../../Svg/bluewaves3.svg);
 }

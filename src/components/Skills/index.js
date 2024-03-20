@@ -27,6 +27,11 @@ margin-top: 180px;
 @media (max-width: 960px) {
     flex-direction: column;
 }
+@media (max-width: 450px) {
+  margin-top: 0px;
+  margin-bottom: 901px;
+}
+
 `
 
 export const Title = styled.div`
