@@ -272,40 +272,40 @@ export const projects = [
     github: "https://github.com/sankha19g/amazon-clone",
     webapp: "https://clone-f0d82.web.app/",
   },
-  {
-    id: 0,
-    title: "FaceBook Clone",
-    date: "",
-    description:
-      "Work in progress",
-    image:
-      "https://i.pinimg.com/564x/11/65/95/1165952efd04827b9a6a1aec09c17573.jpg",
+  // {
+  //   id: 0,
+  //   title: "FaceBook Clone",
+  //   date: "",
+  //   description:
+  //     "Work in progress",
+  //   image:
+  //     "https://i.pinimg.com/564x/11/65/95/1165952efd04827b9a6a1aec09c17573.jpg",
 
-    tags: ["React JS",
-    "HTML",
-    "CSS",
-    "Javascript",
-    "Redux",
-    "Firebase",],
+  //   tags: ["React JS",
+  //   "HTML",
+  //   "CSS",
+  //   "Javascript",
+  //   "Redux",
+  //   "Firebase",],
 
-    category: "web app",
-    github: "",
-    webapp: "",
-    // member: [
-    //   {
-    //     name: "Rishav Chanda",
-    //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-    //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-    //     github: "https://github.com/rishavchanda/",
-    //   },
-    //   {
-    //     name: "Upasana Chaudhuri",
-    //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-    //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-    //     github: "https://github.com/upasana0710",
-    //   },
-    // ],
-  },
+  //   category: "web app",
+  //   github: "",
+  //   webapp: "",
+  //   // member: [
+  //   //   {
+  //   //     name: "Rishav Chanda",
+  //   //     img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+  //   //     linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+  //   //     github: "https://github.com/rishavchanda/",
+  //   //   },
+  //   //   {
+  //   //     name: "Upasana Chaudhuri",
+  //   //     img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+  //   //     linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+  //   //     github: "https://github.com/upasana0710",
+  //   //   },
+  //   // ],
+  // },
   {
     id: 9,
     title: "Tinder Clone / Dating Website",
